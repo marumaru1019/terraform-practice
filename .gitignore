@@ -1,0 +1,8 @@
+terraform-practice-iam.csv
+
+*.sh
+
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
